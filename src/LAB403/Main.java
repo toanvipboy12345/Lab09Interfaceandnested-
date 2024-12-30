@@ -12,7 +12,7 @@ public class Main {
         // Đọc nội dung từ file
         doc.read(filename);
 
-        // Mã hóa nội dung
+        // Mã hóa nội LAB404
         doc.encrypt();
 
         // Giải mã nội dung
